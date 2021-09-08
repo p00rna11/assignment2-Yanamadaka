@@ -33,7 +33,7 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 ### Must Try These Foods
 
 | Food Item | Place available| Price |
-|---|---|-::-|
+|:----------:|:-------------:|:-----|
 | kaju barfi | Swagruha | 3$ |
 | Chicken Dum Biryani | Paradise,Hyderabad | 10$ |
 | Mc. Chicken | Mc. Donalds,Maryville | 3$ |
