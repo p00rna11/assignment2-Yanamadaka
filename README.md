@@ -52,7 +52,7 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 
 ***
 
->It follows from the functional equation of the Riemann zeta function that the Z function is real for real values of t. It is an even function, and real analytic for real values. It follows from the fact that the Riemann-Siegel theta function and the Riemann zeta function are both holomorphic in the critical strip, where the imaginary part of t is between −1/2 and 1/2, that the Z function is holomorphic in the critical strip also. Moreover, the real zeros of Z(t) are precisely the zeros of the zeta function along the critical line, and complex zeros in the Z function critical strip correspond to zeros off the critical line of the Riemann zeta function in its critical strip.for more info[Zfunction](https://en.wikipedia.org/wiki/Z_function)
+>It follows from the functional equation of the Riemann zeta function that the Z function is real for real values of t. It is an even function, and real analytic for real values. It follows from the fact that the Riemann-Siegel theta function and the Riemann zeta function are both holomorphic in the critical strip, where the imaginary part of t is between −1/2 and 1/2, that the Z function is holomorphic in the critical strip also. Moreover, the real zeros of Z(t) are precisely the zeros of the zeta function along the critical line, and complex zeros in the Z function critical strip correspond to zeros off the critical line of the Riemann zeta function in its critical strip.for more info Click here [Z function](https://en.wikipedia.org/wiki/Z_function)
 
 ```
 vector<int> z_function_trivial(string s) {
@@ -63,6 +63,6 @@ vector<int> z_function_trivial(string s) {
             ++z[i];
     return z;
 ```
-For Code click here[ZFunction](https://cp-algorithms.com/string/z-function.html)
+For example code click here [Trivial Algorithm](https://cp-algorithms.com/string/z-function.html) 
 
 
