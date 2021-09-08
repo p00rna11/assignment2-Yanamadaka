@@ -29,4 +29,13 @@ Take a flight ticket from Kansas city to India which might drop you at New Delhi
 link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/6c0cc3bc001cba5ef80d40f9cd16cfdafab624ec/AboutMe.md)
 
 
+***
+### Must Try These Foods
+
+| :Food Item: | :Description: |:Place available:| :Price: |
+|---|---|---|-::-|
+| :Payasam: | :Indian homemade sweet made with rice,jagerry, milk: | :Homemade: | :3$: |
+| :Chicken Dum Biryani: | :Most famous food preferred by non vegetarians made with rice and marinated chicken: | :Paradise,Hyderabad: | :10$: |
+| :Mc. Chicken: | :Cooked Chicken sandwitched between two buns: | :Mc. Donalds,Maryville: | :3$: |
+| :Chicken Nuggets: | :A chicken nugget is a food product consisting of a small piece of deboned chicken meat that is breaded or battered: | :Burger King,Maryville: | :2$: |
 
