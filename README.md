@@ -44,6 +44,8 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 
 ***
 
+####***Quotes which Worh memorizing***
+
 >Evey pain gives a lesson and every lesson changes a person -*APJ Abdul Kalam*
 
 >I dont believe in taking right decisions. I take decisions and then make them right-*Ratan Tata*
