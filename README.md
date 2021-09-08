@@ -50,3 +50,18 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 
 >I dont believe in taking right decisions. I take decisions and then make them right-*Ratan Tata*
 
+***
+
+>It follows from the functional equation of the Riemann zeta function that the Z function is real for real values of t. It is an even function, and real analytic for real values. It follows from the fact that the Riemann-Siegel theta function and the Riemann zeta function are both holomorphic in the critical strip, where the imaginary part of t is between −1/2 and 1/2, that the Z function is holomorphic in the critical strip also. Moreover, the real zeros of Z(t) are precisely the zeros of the zeta function along the critical line, and complex zeros in the Z function critical strip correspond to zeros off the critical line of the Riemann zeta function in its critical strip.
+
+```
+vector<int> z_function_trivial(string s) {
+    int n = (int) s.length();
+    vector<int> z(n);
+    for (int i = 1; i < n; ++i)
+        while (i + z[i] < n && s[z[i]] == s[i + z[i]])
+            ++z[i];
+    return z;
+```
+
+
