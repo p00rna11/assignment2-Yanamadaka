@@ -20,10 +20,12 @@ Indore is the city which was awarded as **Cleanest city in india for the past 4 
     2. Book a hotel 
 Take a flight ticket from Kansas city to India which might drop you at New Delhi or Mumbai or Chennai International airport you might be travelling through Chicago or New York which have major international airports. After freaching india you have to there take another flight from there to indore.
 
-
+After departing in indore
 * take a cab.
 * Book a hotel prior to arrival.
-* pack a backpack with eatables and appropriate cloths as per the weather.
+    * pack a backpack with eatables.
+    * Pack appropriate cloths as per the weather.
+* Make a plan to visit all the places
 
 
 link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/6c0cc3bc001cba5ef80d40f9cd16cfdafab624ec/AboutMe.md)
