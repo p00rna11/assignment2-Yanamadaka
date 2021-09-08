@@ -30,11 +30,13 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 
 
 ***
-### Must Try These Foods
+### Must Try These 
+
+*There are alot of foods that tastes good but a few foods became My favorite foods which i would love to have most of the times they are as follows*
 
 | Food Item | Place available| Price |
 |:----------:|:-------------:|:-----|
-| kaju barfi | Swagruha | 3$ |
+| kaju barfi | Swagruha,vijayawada | 3$ |
 | Chicken Dum Biryani | Paradise,Hyderabad | 10$ |
 | Mc. Chicken | Mc. Donalds,Maryville | 3$ |
 | Chicken Nuggets | Burger King,Maryville | 2$ |
