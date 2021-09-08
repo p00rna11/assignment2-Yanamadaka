@@ -26,7 +26,7 @@ Take a flight ticket from Kansas city to India which might drop you at New Delhi
 * pack a backpack with eatables and appropriate cloths as per the weather.
 
 
-link to [gitreadme.md](https://github.com/p00rna11/assignment2-Yanamadala.git)
+link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/6c0cc3bc001cba5ef80d40f9cd16cfdafab624ec/AboutMe.md)
 
 
 
