@@ -41,3 +41,10 @@ link to [GitAboutme.md](https://github.com/p00rna11/assignment2-Yanamadala/blob/
 | Mc. Chicken | Mc. Donalds,Maryville | 3$ |
 | Chicken Nuggets | Burger King,Maryville | 2$ |
 
+
+***
+
+>Evey pain gives a lesson and every lesson changes a person -*APJ Abdul Kalam*
+
+>I dont believe in taking right decisions. I take decisions and then make them right-*Ratan Tata*
+
